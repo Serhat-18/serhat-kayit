@@ -1,0 +1,11 @@
+{
+  "name": "alchera",
+  "version": "1.1.1",
+  "description": "",
+  "main": "serhat.js",
+  "scripts": {
+    "test": "node serhat.js"
+  },
+  "author": "$erhat/18",
+  "license": "ISC"
+}
