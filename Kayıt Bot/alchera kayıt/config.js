@@ -29,10 +29,8 @@ module.exports = {
  //-----------------------------------------  KISIYE OZEL AYARLAR  --------------------------------------------//
 
  "unregisterisim": `✧ İsim | Yaş`,  //eğer fivem için kullanmayacaksanız doldurun sunucuya girenin ismini değiştirir + kayıt alınca kişi ismi bu olur
- "genelchatmesaj": `${piece} Aramıza Katıldı:tada:\n Aramıza Hoşgeldinnn:smiling_face_with_3_hearts:\nSunucumuz Seninle Beraber **${message.guild.memberCount}**Kişi!:tada:\nEğlencenin Tadını Çıkart :partying_face:`,
  "yetersizyetkimesaj": "Malesef bu komutu kullanacak yetkiniz bulunmamaktadır!",
  "hatamesaj": "Hata meydana geldi <@826879434334011434> e ulaş lütfen!",
- "otorolmesaj": `${member} Adlı kullanıcıya <@&ROL_ID> rolü başarıyla verildi`,
  "aktiflog": "BOT SORUNSUZ BICIMDE AKTIF HS_DEVELOPMENTS SUNAR",
  "tag": "✧", //eğer fivem için kullanmayacaksanız doldurun sunucu tagınız
  "status": "online", 
