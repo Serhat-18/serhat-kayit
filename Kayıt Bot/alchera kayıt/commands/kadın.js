@@ -27,7 +27,7 @@ exports.run = async (client, message, args) => {
         .setFooter(config.footer)
         .setThumbnail(config.gif)
         )
-        message.guild.channels.cache.get(config.genelChat).send(config.genelchatmesaj)
+        message.guild.channels.cache.get(config.genelChat).send(`${piece} Aramıza Katıldı:tada:\n Aramıza Hoşgeldinnn:smiling_face_with_3_hearts:\nSunucumuz Seninle Beraber **${message.guild.memberCount}**Kişi!:tada:\nEğlencenin Tadını Çıkart :partying_face:`)
     } catch (e) {
         message.channel.send(config.hatamesaj)
     }
